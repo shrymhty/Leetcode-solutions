@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    string s="Rudraneel";
+    string s="Alohomora";
     while(s[0]!='\0')
     {
         
